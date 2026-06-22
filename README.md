@@ -1,5 +1,5 @@
 # plantdiseaseapp
-An intelligent, deep learning-based application designed to identify plant diseases instantly from leaf images. By leveraging computer vision, this project aims to support sustainable agriculture, reduce crop loss through early diagnosis, and provide a practical digital assistant for farmers and agronomists.
+Yaprak görüntülerinden bitki hastalıklarını anında tespit etmek için tasarlanmış, derin öğrenme tabanlı akıllı bir uygulama. Bilgisayarlı görü teknolojisinden yararlanan bu proje; sürdürülebilir tarımı desteklemeyi, erken teşhisle ürün kaybını azaltmayı, çiftçiler ve agronomistler için pratik bir dijital asistan sunmayı amaçlamaktadır.
 
 <img width="801" height="628" alt="Ekran_Alnts_3" src="https://github.com/user-attachments/assets/78c9caa3-91be-456a-978a-8e3608b101c8" />
 <img width="805" height="631" alt="Ekran_Alnts_4" src="https://github.com/user-attachments/assets/98b31733-603d-4711-a37b-5bcd5d392240" />
